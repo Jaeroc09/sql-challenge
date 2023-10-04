@@ -11,7 +11,7 @@ In order to answer questions based on people the company employed during the 198
 
 #### Part 2: Data Engineering
 
-Once modeled, a table [schema](./EmployeeSQL/schema.sql) was created in PostgreSQL, and each CSV files was imported to their corresponding table.
+Once modeled, a table [schema](./EmployeeSQL/schema.sql) was created in PostgreSQL, and each CSV file was imported to their corresponding table.
 
 #### Part 3: Data Analysis
 
